@@ -1,2 +1,2 @@
 # stats
-Statistical Modeling
+Statistical Modeling in Python
